@@ -3,9 +3,16 @@ title: "Tuan-Dung Ngo"
 ---
 
 
-## Current work
+###**Current work**
 
 I am a PhD student (2015 - 2018) in Biochemistry in PBRC team, BCI laboratory, BIG, CEA, Grenoble, France. I am working on Microbiology and development of antimicrobial compounds    
+
 My advisor is Mr. Eric Faudry (BIG/BCI/PBRC). Contact: eric.faudry@cea.fr  
+
 My PhD work funded by the associations: "Vaincre le mucovicidose" and "Gregory Lemarchal"  
-My thesis defense will be held on February 6, 2019  
+
+My PhD defense will be held on February 6, 2019  
+
+[Thislink](#www.google.com)
+
+[linked pharse](google.com)
