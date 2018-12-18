@@ -2,6 +2,6 @@
 title: "Welcome to my website!"
 ---
 
-You're up and running!
+My name is Tuan-Dung Ngo, I'm PhD in Biochemistry. [Know more about me](about.html)
 
-![Caption for the picture.](anhjun.png)
+![A view of Grenoble from Bastille fortress.](anhjun.png)

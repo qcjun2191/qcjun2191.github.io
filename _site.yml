@@ -11,15 +11,17 @@ navbar:
       icon: fa-user 
       href: about.html
     - text: "Papers/Talks"
-      icon: fa-file-pdf-o
       href: cv.html
   right:
     - text: "Contact me"
       icon: fa-envelope-o
       href: mailto:ngotuandung1991@gmail.com                     # CHANGE HERE 
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/YOURGITHUB         # CHANGE HERE 
+    - text: ""
+      icon: fa-linkedin
+      href: https://www.linkedin.com/in/tuan-dung-ngo-15a07882/  
+    - text: ""
+      icon: fa-facebook
+      href: https://www.facebook.com/NgoTuanDung  # CHANGE HERE 
 output:
   html_document:
     theme: cosmo
