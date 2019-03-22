@@ -5,19 +5,21 @@ title: ""
 
 Hello, I'm from [Hanoi](https://vi.wikipedia.org/wiki/H%C3%A0_N%E1%BB%99i), Vietnam. I am currently in [Grenoble](https://fr.wikipedia.org/wiki/Grenoble), France.
 
-My interest is in the Biomedical Sciences.
+My interest is in the Biomedical and Data Sciences.
 
-I am a shareholder of DongCuong-DC joint stock company in Vietnam. We have many projects on community healthcare and construction of infrastructure and urban. Visit our website here : [wwww.dongcuongdc.com](https://dongcuongdc.com)
+I am a shareholder of DongCuong-DC joint stock company in Vietnam. We have many projects on community healthcare and construction of infrastructure and urban. As a company, we encourage the cooperation and welcome all the Domestic and Foreign Investment.&nbsp;
+"To go further, we are together"&nbsp;
+Visit our website here : [www.dongcuongdc.com](https://dongcuongdc.com)
 
-###**Current work**
+###**Previous work**
 
-I am a PhD student (2015 - 2018) in Biochemistry and Microbiology in PBRC team, BCI laboratory, BIG, CEA, Grenoble, France. I am working on virulence factors of pathogen and development of antimicrobial compounds.    
+PhD student (Dec 2015 - Feb 2019) in Biochemistry and Microbiology in PBRC team, BCI laboratory, BIG, CEA, Grenoble, France. I am working on virulence factors of pathogen and development of antimicrobial compounds.    
 
 My advisor is Mr. Eric Faudry (BIG/BCI/PBRC). Contact: eric.faudry@cea.fr  
 
 My PhD work is funded by the associations: "Vaincre la mucovicidose" and "Gregory Lemarchal"  
 
-My PhD defense will be held on February 6, 2019  
+My PhD defense was held on February 6, 2019  
 
 ###**Education**
 
@@ -27,5 +29,5 @@ Then, I was in prepratory class at University of Communications and Transport, H
 
 I came in France in 2010 and graduated from [Insa-Lyon](https://www.insa-lyon.fr/), an engineer school in applied sciences, in 2015. I have an engineer diploma in Biochemistry and Biotechnology.  
 
-Currently, I'm PhD student at [Doctoral school of Chemistry and Life Sciences of Grenoble](https://edcsv.univ-grenoble-alpes.fr/). 
+Recently, I'm PhD student at [Doctoral school of Chemistry and Life Sciences of Grenoble, France](https://edcsv.univ-grenoble-alpes.fr/) where I got my PhD diploma in Microbiology. 
 
