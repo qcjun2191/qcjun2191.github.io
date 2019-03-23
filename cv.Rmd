@@ -2,8 +2,27 @@
 title: "CV"
 ---
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<a href="CV TDNgo English.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
 
-## Header
+### **Papers**
 
-Say more about your CV here.
+**Tuan-Dung Ngo.,** Sophie Plé., Aline Thomas., Caroline Barette., Antoine Fortuné., Younes Bouzidi., Marie-Odile Fauvarque., Rossimiriam Pereira de Freitas., Flaviane Francisco Hilário., Ina Attrée., Yung-Sing Wong., and Eric Faudry. (2019). **“Chimeric protein-protein interface inhibitors allow efficient inhibition of Type III secretion machinery and Pseudomonas aeruginosa virulence”**. J.Am.Chem.Soc. IF 14.3 (Submitted in March 2019)
+
+### **Talks**
+
+**November 2018**<br/>
+Oral scientific communication in the conference of SFM (Société Française Microbiologie), in Paris, France. 
+
+**December 2017**<br/>
+Oral scientific communication in the conference of G-RREMI (groupe Régional de Recherche en Microbiologie des Interactions), in Lyon, France.
+
+**February 2017**<br/>
+Oral scientific communication in the « European Young Investigators Meeting 2017 on Cystic Fibrosis », in Paris, France.
+
+### **Other conferences**
+* 2018: 19th conference of VLM (Vaincre la Mucoviscidose), in Paris, France
+* 2017: 2nd conference of Bacto-Gre, in Grenoble, France
+* 2017: 18th conference of VLM (Vaincre la Mucoviscidose), in Paris, France
+* 2016: 1st conference of Bacto-Gre, in Grenoble, France
+* 2016: Type III Secretion System Meeting, in Tübingen, Germany.
+* 2016: 17th conference of VLM (Vaincre la Mucoviscidose), in Paris, France
