@@ -6,7 +6,7 @@ title: "CV"
 
 ### **Papers**
 
-**Tuan-Dung Ngo.,** Sophie Plé., Aline Thomas., Caroline Barette., Antoine Fortuné., Younes Bouzidi., Marie-Odile Fauvarque., Rossimiriam Pereira de Freitas., Flaviane Francisco Hilário., Ina Attrée., Yung-Sing Wong., and Eric Faudry. (2019). **“Chimeric protein-protein interface inhibitors allow efficient inhibition of Type III secretion machinery and Pseudomonas aeruginosa virulence”**. J.Am.Chem.Soc. IF 14.3 (Submitted in March 2019)
+**Tuan-Dung Ngo.,** Sophie Plé., Aline Thomas., Caroline Barette., Antoine Fortuné., Younes Bouzidi., Marie-Odile Fauvarque., Rossimiriam Pereira de Freitas., Flaviane Francisco Hilário., Ina Attrée., Yung-Sing Wong., and Eric Faudry. (2019). **“Chimeric protein-protein interface inhibitors allow efficient inhibition of Type III secretion machinery and Pseudomonas aeruginosa virulence”**. ACS Infect. Dis.<br/>(DOI: 10.1021/acsinfecdis.9b00154)
 
 ### **Talks**
 
