@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
 
-<title></title>
+<title>about.utf8</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -85,7 +85,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -234,6 +233,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -245,18 +245,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -344,21 +332,17 @@ $(document).ready(function () {
 </div>
 <p>Hello, I’m from <a href="https://vi.wikipedia.org/wiki/H%C3%A0_N%E1%BB%99i">Hanoi</a>, Vietnam. I am currently in <a href="https://fr.wikipedia.org/wiki/Grenoble">Grenoble</a>, France.</p>
 <p>My interest is in the Biomedical and Data Sciences.</p>
-<p>I am a shareholder of DongCuong-DC joint stock company in Vietnam. We have many projects on community healthcare and construction of infrastructure and urban. As a company, we encourage the cooperation and welcome Domestic and Foreign Investment.<br/> To open up an opportunity of partnership, feel free to visit our website here : <a href="https://dongcuongdc.com">www.dongcuongdc.com</a>. “To go further, we go together”</p>
-<div id="previous-work" class="section level3">
-<h3><strong>Previous work</strong></h3>
-<p>PhD student (Dec 2015 - Feb 2019) in Biochemistry and Microbiology in PBRC team, BCI laboratory, BIG, CEA, Grenoble, France. I worked on virulence factors of pathogen and development of antimicrobial compounds.</p>
-<p>My advisor is Mr. Eric Faudry (BIG/BCI/PBRC). Contact: <a href="mailto:eric.faudry@cea.fr">eric.faudry@cea.fr</a></p>
+<p>Now, I am postdoc researcher in CBO and GBMS teams, <a href="https://www.cermav.cnrs.fr/">CERMAV</a> laboratory (UPR 5301), CNRS, Grenoble, France, on a collaborative research project with SYNTHELIS and SANOFIS PASTEUR.</p>
+<p>###<strong>Previous work</strong></p>
+<p>PhD student (Dec 2015 - Feb 2019) in Biochemistry and Microbiology in PBRC team (ERL5261), <a href="http://www.bci-lab.fr/">BCI</a> laboratory (UMR1036), BIG, CEA, Grenoble, France. I worked on virulence factors of pathogen and development of antimicrobial compounds.</p>
+<p>My advisor is Mr. Eric Faudry (BIG/BCI/PBRC). Contact: <a href="mailto:eric.faudry@cea.fr" class="email">eric.faudry@cea.fr</a></p>
 <p>My PhD work is funded by the associations: “Vaincre la mucovicidose” and “Gregory Lemarchal”</p>
 <p>My PhD defense was held on February 6, 2019</p>
-</div>
-<div id="education" class="section level3">
-<h3><strong>Education</strong></h3>
+<p>###<strong>Education</strong></p>
 <p>In 2009, I obtained my High School Graduation Certificate at Nguyen binh Khiem High school, Hanoi, vietnam</p>
 <p>Then, I was in prepratory class at University of Communications and Transport, Hanoi, Vietnam.</p>
 <p>I came in France in 2010 and graduated from <a href="https://www.insa-lyon.fr/">Insa-Lyon</a>, an engineer school in applied sciences, in 2015. I have an engineer diploma in Biochemistry and Biotechnology.</p>
 <p>Recently, I’m PhD student at <a href="https://edcsv.univ-grenoble-alpes.fr/">Doctoral school of Chemistry and Life Sciences of Grenoble</a> in France where I got my PhD diploma in Microbiology.</p>
-</div>
 
 
 
@@ -377,6 +361,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
