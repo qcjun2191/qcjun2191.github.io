@@ -11,7 +11,7 @@ Now, I am postdoc researcher in CBO and GBMS teams, [CERMAV](https://www.cermav.
 
 
 
-###**Previous work**
+### **Previous work**
 
 PhD student (Dec 2015 - Feb 2019) in Biochemistry and Microbiology in PBRC team (ERL5261), [BCI](http://www.bci-lab.fr/) laboratory (UMR1036), BIG, CEA, Grenoble, France. I worked on virulence factors of pathogen and development of antimicrobial compounds.    
 
@@ -21,7 +21,7 @@ My PhD work is funded by the associations: "Vaincre la mucovicidose" and "Gregor
 
 My PhD defense was held on February 6, 2019  
 
-###**Education**
+### **Education**
 
 In 2009, I obtained my High School Graduation Certificate at Nguyen binh Khiem High school, Hanoi, vietnam 
 
