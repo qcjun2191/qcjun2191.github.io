@@ -6,6 +6,9 @@ title: "CV"
 
 ### **Papers**
 
+**Tuan-Dung Ngo.,** Caroline Perdu., Bakhos Jneid., Michel Ragno., Julia Novion Ducassou., Alexandra Kraut., Yohann Couté., Charles Stopford., Ina Attree., Arne Rietsch., and Eric Faudry. (2020) **“The gate-keeper PopN complex acts on the ATPase PscN to regulate the T3SS secretion switch from early to middle substrates in Pseudomonas aeruginosa”** <br/>  (preprint: doi.org/10.1101/2020.07.28.224923)
+
+
 **Tuan-Dung Ngo.,** Sophie Plé., Aline Thomas., Caroline Barette., Antoine Fortuné., Younes Bouzidi., Marie-Odile Fauvarque., Rossimiriam Pereira de Freitas., Flaviane Francisco Hilário., Ina Attrée., Yung-Sing Wong., and Eric Faudry. (2019). **“Chimeric protein-protein interface inhibitors allow efficient inhibition of Type III secretion machinery and Pseudomonas aeruginosa virulence”**. ACS Infect. Dis.<br/>(DOI: 10.1021/acsinfecdis.9b00154)
 
 ### **Talks**
