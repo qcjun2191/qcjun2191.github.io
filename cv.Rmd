@@ -6,12 +6,17 @@ title: "CV"
 
 ### **Papers**
 
-**Tuan-Dung Ngo.,** Caroline Perdu., Bakhos Jneid., Michel Ragno., Julia Novion Ducassou., Alexandra Kraut., Yohann Couté., Charles Stopford., Ina Attree., Arne Rietsch., and Eric Faudry. (2020) **“The gate-keeper PopN complex acts on the ATPase PscN to regulate the T3SS secretion switch from early to middle substrates in Pseudomonas aeruginosa”** <br/>  (preprint: doi.org/10.1101/2020.07.28.224923)
+Oriane Moyne., Florence Castelli., Dominique J. Bicout., Julien Boccard., Boubou Camara., Benoit Cournoyer., Eric Faudry., Samuel Terrier., Dalil Hannani., Sarah Huot-Marchand., Claire Léger., Max Maurin., **Tuan-Dung Ngo.,** Caroline Plazy., Robert A. Quinn., Ina Attree., François Fenaille., Bertrand Toussaint and Audrey Le Gouëllec. (2021) **“Metabotypes of *Pseudomonas aeruginosa* correlate with antibiotic resistance, virulence and clinical outcome in Cystic Fibrosis chronic infections”** <br/> metabolites [(doi: 10.3390/metabo11020063)](https://doi.org/10.3390/metabo11020063) 
+
+**Tuan-Dung Ngo.,** Caroline Perdu., Bakhos Jneid., Michel Ragno., Julia Novion Ducassou., Alexandra Kraut., Yohann Couté., Charles Stopford., Ina Attree., Arne Rietsch., and Eric Faudry. (2020) **“The gate-keeper PopN complex acts on the ATPase PscN to regulate the T3SS secretion switch from early to middle substrates in *Pseudomonas aeruginosa*”**. <br/> JMB [(doi: 10.1016/j.jmb.2020.10.024)](https://doi.org/10.1016/j.jmb.2020.10.024)
 
 
-**Tuan-Dung Ngo.,** Sophie Plé., Aline Thomas., Caroline Barette., Antoine Fortuné., Younes Bouzidi., Marie-Odile Fauvarque., Rossimiriam Pereira de Freitas., Flaviane Francisco Hilário., Ina Attrée., Yung-Sing Wong., and Eric Faudry. (2019). **“Chimeric protein-protein interface inhibitors allow efficient inhibition of Type III secretion machinery and Pseudomonas aeruginosa virulence”**. ACS Infect. Dis.<br/>(DOI: 10.1021/acsinfecdis.9b00154)
+**Tuan-Dung Ngo.,** Sophie Plé., Aline Thomas., Caroline Barette., Antoine Fortuné., Younes Bouzidi., Marie-Odile Fauvarque., Rossimiriam Pereira de Freitas., Flaviane Francisco Hilário., Ina Attrée., Yung-Sing Wong., and Eric Faudry. (2019). **“Chimeric protein-protein interface inhibitors allow efficient inhibition of Type III secretion machinery and *Pseudomonas aeruginosa* virulence”**.<br/> ACS Infect. Dis.[(doi: 10.1021/acsinfecdis.9b00154)](https://doi.org/10.1021/acsinfecdis.9b00154)
 
 ### **Talks**
+
+**January 2021**<br/>
+Oral scientific communication (video conferencing) in the conference of G-RREMI (groupe Régional de Recherche en Microbiologie des Interactions), Auvergne Rhône-Alpes, France.
 
 **November 2018**<br/>
 Oral scientific communication in the conference of SFM (Société Française Microbiologie), in Paris, France. 
